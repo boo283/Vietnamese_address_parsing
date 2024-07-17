@@ -2,7 +2,7 @@
 Vietnamese address parsing is my personal project which concentrate on parsing location real estate data from Internet.
 The input is presented as a string containing user-generated address, which is then parsed into hierachial token as city/province, district, ward.
 It could determine the province if it is not provided in the input. 
-![Architecture](sa.png)
+![Architecture](data/sa.png)
 ## Features
 -  Address Extraction: Extracts Vietnamese existing address from PostgresSQL/ SQL Server database from filtering raw data purpose.
 -  Data Transformation: Parse raw data into tokens which could be province, district, ward.
