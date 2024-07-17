@@ -9,10 +9,10 @@
     ],
     "b\u00ecnh d\u01b0\u01a1ng": [
         "b\u1ebfn c\u00e1t",
-        "thu\u1eadn an",
         "d\u0129 an",
+        "t\u00e2n uy\u00ean",
         "th\u1ee7 d\u1ea7u m\u1ed9t",
-        "t\u00e2n uy\u00ean"
+        "thu\u1eadn an"
     ],
     "b\u00ecnh ph\u01b0\u1edbc": [
         "\u0111\u1ed3ng xo\u00e0i"
@@ -33,8 +33,8 @@
         "b\u1eafc k\u1ea1n"
     ],
     "b\u1eafc ninh": [
-        "b\u1eafc ninh",
-        "t\u1eeb s\u01a1n"
+        "t\u1eeb s\u01a1n",
+        "b\u1eafc ninh"
     ],
     "b\u1ebfn tre": [
         "b\u1ebfn tre"
@@ -64,8 +64,8 @@
         "h\u01b0ng y\u00ean"
     ],
     "h\u1ea3i d\u01b0\u01a1ng": [
-        "ch\u00ed linh",
-        "h\u1ea3i d\u01b0\u01a1ng"
+        "h\u1ea3i d\u01b0\u01a1ng",
+        "ch\u00ed linh"
     ],
     "h\u1eadu giang": [
         "v\u1ecb thanh",
@@ -76,9 +76,9 @@
         "cam ranh"
     ],
     "ki\u00ean giang": [
+        "ph\u00fa qu\u1ed1c",
         "r\u1ea1ch gi\u00e1",
-        "h\u00e0 ti\u00ean",
-        "ph\u00fa qu\u1ed1c"
+        "h\u00e0 ti\u00ean"
     ],
     "kon tum": [
         "kon tum"
@@ -106,8 +106,8 @@
         "vinh"
     ],
     "ninh b\u00ecnh": [
-        "ninh b\u00ecnh",
-        "tam \u0111i\u1ec7p"
+        "tam \u0111i\u1ec7p",
+        "ninh b\u00ecnh"
     ],
     "ninh thu\u1eadn": [
         "phan rang-th\u00e1p ch\u00e0m"
@@ -130,8 +130,8 @@
     ],
     "qu\u1ea3ng ninh": [
         "h\u1ea1 long",
-        "m\u00f3ng c\u00e1i",
         "u\u00f4ng b\u00ed",
+        "m\u00f3ng c\u00e1i",
         "c\u1ea9m ph\u1ea3"
     ],
     "qu\u1ea3ng tr\u1ecb": [
@@ -151,9 +151,9 @@
         "th\u00e1i b\u00ecnh"
     ],
     "th\u00e1i nguy\u00ean": [
+        "ph\u1ed5 y\u00ean",
         "s\u00f4ng c\u00f4ng",
-        "th\u00e1i nguy\u00ean",
-        "ph\u1ed5 y\u00ean"
+        "th\u00e1i nguy\u00ean"
     ],
     "th\u1eeba thi\u00ean hu\u1ebf": [
         "hu\u1ebf"
@@ -191,12 +191,12 @@
         "gia ngh\u0129a"
     ],
     "\u0111\u1ed3ng nai": [
-        "long kh\u00e1nh",
-        "bi\u00ean h\u00f2a"
+        "bi\u00ean h\u00f2a",
+        "long kh\u00e1nh"
     ],
     "\u0111\u1ed3ng th\u00e1p": [
-        "h\u1ed3ng ng\u1ef1",
         "sa \u0111\u00e9c",
-        "cao l\u00e3nh"
+        "cao l\u00e3nh",
+        "h\u1ed3ng ng\u1ef1"
     ]
 }

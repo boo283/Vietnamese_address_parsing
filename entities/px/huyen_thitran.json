@@ -9,16 +9,16 @@
         "an d\u01b0\u01a1ng"
     ],
     "an l\u00e3o": [
-        "an l\u00e3o",
-        "tr\u01b0\u1eddng s\u01a1n"
+        "tr\u01b0\u1eddng s\u01a1n",
+        "an l\u00e3o"
     ],
     "an minh": [
         "th\u1ee9 m\u01b0\u1eddi m\u1ed9t"
     ],
     "an ph\u00fa": [
         "long b\u00ecnh",
-        "\u0111a ph\u01b0\u1edbc",
-        "an ph\u00fa"
+        "an ph\u00fa",
+        "\u0111a ph\u01b0\u1edbc"
     ],
     "anh s\u01a1n": [
         "anh s\u01a1n"
@@ -70,11 +70,11 @@
         "t\u00e2n qu\u1edbi"
     ],
     "b\u00ecnh xuy\u00ean": [
-        "h\u01b0\u01a1ng canh",
-        "\u0111\u1ea1o \u0111\u1ee9c",
+        "thanh l\u00e3ng",
         "b\u00e1 hi\u1ebfn",
+        "h\u01b0\u01a1ng canh",
         "gia kh\u00e1nh",
-        "thanh l\u00e3ng"
+        "\u0111\u1ea1o \u0111\u1ee9c"
     ],
     "b\u00ecnh \u0111\u1ea1i": [
         "b\u00ecnh \u0111\u1ea1i"
@@ -96,9 +96,9 @@
         "b\u1ea3o l\u1ea1c"
     ],
     "b\u1ea3o th\u1eafng": [
-        "n.t phong h\u1ea3i",
         "t\u1eb1ng lo\u1ecfng",
-        "ph\u1ed1 lu"
+        "ph\u1ed1 lu",
+        "n.t phong h\u1ea3i"
     ],
     "b\u1ea3o y\u00ean": [
         "ph\u1ed1 r\u00e0ng"
@@ -114,8 +114,8 @@
         "y\u00ean ph\u00fa"
     ],
     "b\u1eafc quang": [
-        "v\u0129nh tuy",
-        "vi\u1ec7t quang"
+        "vi\u1ec7t quang",
+        "v\u0129nh tuy"
     ],
     "b\u1eafc s\u01a1n": [
         "b\u1eafc s\u01a1n"
@@ -137,8 +137,8 @@
         "b\u1ebfn l\u1ee9c"
     ],
     "b\u1ed1 tr\u1ea1ch": [
-        "nt vi\u1ec7t trung",
         "ho\u00e0n l\u00e3o",
+        "nt vi\u1ec7t trung",
         "phong nha"
     ],
     "cai l\u1eady": [
@@ -176,22 +176,22 @@
         "v\u0129nh th\u1ea1nh trung"
     ],
     "ch\u00e2u th\u00e0nh": [
-        "t\u00e2n hi\u1ec7p",
-        "v\u0129nh b\u00ecnh",
+        "t\u1ea7m vu",
         "an ch\u00e2u",
+        "minh l\u01b0\u01a1ng",
+        "v\u0129nh b\u00ecnh",
+        "t\u00e2n hi\u1ec7p",
         "ng\u00e3 s\u00e1u",
         "ch\u00e2u th\u00e0nh",
         "ti\u00ean th\u1ee7y",
-        "minh l\u01b0\u01a1ng",
-        "t\u1ea7m vu",
         "c\u00e1i t\u00e0u h\u1ea1",
         "m\u00e1i d\u1ea7m"
     ],
     "ch\u00e2u th\u00e0nh a": [
         "c\u00e1i t\u1eafc",
-        "m\u1ed9t ng\u00e0n",
         "b\u1ea3y ng\u00e0n",
-        "r\u1ea1ch g\u00f2i"
+        "r\u1ea1ch g\u00f2i",
+        "m\u1ed9t ng\u00e0n"
     ],
     "ch\u00e2u \u0111\u1ee9c": [
         "ng\u00e3i giao"
@@ -200,8 +200,8 @@
         "ch\u01b0 pr\u00f4ng"
     ],
     "ch\u01b0 p\u0103h": [
-        "ph\u00fa h\u00f2a",
-        "ia ly"
+        "ia ly",
+        "ph\u00fa h\u00f2a"
     ],
     "ch\u01b0 p\u01b0h": [
         "nh\u01a1n ho\u00e0"
@@ -221,8 +221,8 @@
     ],
     "ch\u1ee3 m\u1edbi": [
         "ch\u1ee3 m\u1edbi",
-        "\u0111\u1ed3ng t\u00e2m",
         "m\u1ef9 lu\u00f4ng",
+        "\u0111\u1ed3ng t\u00e2m",
         "h\u1ed9i an"
     ],
     "ch\u1ee3 \u0111\u1ed3n": [
@@ -245,8 +245,8 @@
         "c\u00e1t b\u00e0"
     ],
     "c\u00e1t ti\u00ean": [
-        "ph\u01b0\u1edbc c\u00e1t",
-        "c\u00e1t ti\u00ean"
+        "c\u00e1t ti\u00ean",
+        "ph\u01b0\u1edbc c\u00e1t"
     ],
     "c\u00f4 t\u00f4": [
         "c\u00f4 t\u00f4"
@@ -274,12 +274,12 @@
         "c\u1ea7u k\u00e8"
     ],
     "c\u1ea7u ngang": [
-        "m\u1ef9 long",
-        "c\u1ea7u ngang"
+        "c\u1ea7u ngang",
+        "m\u1ef9 long"
     ],
     "c\u1ea9m gi\u00e0ng": [
-        "lai c\u00e1ch",
-        "c\u1ea9m giang"
+        "c\u1ea9m giang",
+        "lai c\u00e1ch"
     ],
     "c\u1ea9m kh\u00ea": [
         "c\u1ea9m kh\u00ea"
@@ -291,8 +291,8 @@
         "phong s\u01a1n"
     ],
     "c\u1ea9m xuy\u00ean": [
-        "c\u1ea9m xuy\u00ean",
-        "thi\u00ean c\u1ea7m"
+        "thi\u00ean c\u1ea7m",
+        "c\u1ea9m xuy\u00ean"
     ],
     "c\u1edd \u0111\u1ecf": [
         "c\u1edd \u0111\u1ecf"
@@ -400,36 +400,36 @@
         "b\u00fat s\u01a1n"
     ],
     "h\u00e0 qu\u1ea3ng": [
-        "xu\u00e2n h\u00f2a",
-        "th\u00f4ng n\u00f4ng"
+        "th\u00f4ng n\u00f4ng",
+        "xu\u00e2n h\u00f2a"
     ],
     "h\u00e0 trung": [
         "h\u00e0 trung"
     ],
     "h\u00e0m thu\u1eadn b\u1eafc": [
-        "ma l\u00e2m",
-        "ph\u00fa long"
+        "ph\u00fa long",
+        "ma l\u00e2m"
     ],
     "h\u00e0m thu\u1eadn nam": [
         "thu\u1eadn nam"
     ],
     "h\u00e0m t\u00e2n": [
-        "t\u00e2n minh",
-        "t\u00e2n ngh\u0129a"
+        "t\u00e2n ngh\u0129a",
+        "t\u00e2n minh"
     ],
     "h\u00e0m y\u00ean": [
         "t\u00e2n y\u00ean"
     ],
     "h\u00f2n \u0111\u1ea5t": [
-        "s\u00f3c s\u01a1n",
-        "h\u00f2n \u0111\u1ea5t"
+        "h\u00f2n \u0111\u1ea5t",
+        "s\u00f3c s\u01a1n"
     ],
     "h\u00f3c m\u00f4n": [
         "h\u00f3c m\u00f4n"
     ],
     "h\u01b0ng h\u00e0": [
-        "h\u01b0ng nh\u00e2n",
-        "h\u01b0ng h\u00e0"
+        "h\u01b0ng h\u00e0",
+        "h\u01b0ng nh\u00e2n"
     ],
     "h\u01b0ng nguy\u00ean": [
         "h\u01b0ng nguy\u00ean"
@@ -438,12 +438,12 @@
         "h\u01b0\u01a1ng kh\u00ea"
     ],
     "h\u01b0\u01a1ng s\u01a1n": [
-        "ph\u1ed1 ch\u00e2u",
-        "t\u00e2y s\u01a1n"
+        "t\u00e2y s\u01a1n",
+        "ph\u1ed1 ch\u00e2u"
     ],
     "h\u01b0\u1edbng h\u00f3a": [
-        "khe sanh",
-        "lao b\u1ea3o"
+        "lao b\u1ea3o",
+        "khe sanh"
     ],
     "h\u1ea1 ho\u00e0": [
         "h\u1ea1 ho\u00e0"
@@ -455,9 +455,9 @@
         "qu\u1ea3ng h\u00e0"
     ],
     "h\u1ea3i h\u1eadu": [
-        "th\u1ecbnh long",
         "c\u1ed3n",
-        "y\u00ean \u0111\u1ecbnh"
+        "y\u00ean \u0111\u1ecbnh",
+        "th\u1ecbnh long"
     ],
     "h\u1ea3i l\u0103ng": [
         "di\u00ean sanh"
@@ -568,22 +568,22 @@
         "v\u0129nh vi\u1ec5n"
     ],
     "long ph\u00fa": [
-        "long ph\u00fa",
-        "\u0111\u1ea1i ng\u00e3i"
+        "\u0111\u1ea1i ng\u00e3i",
+        "long ph\u00fa"
     ],
     "long th\u00e0nh": [
         "long th\u00e0nh"
     ],
     "long \u0111i\u1ec1n": [
-        "long h\u1ea3i",
-        "long \u0111i\u1ec1n"
+        "long \u0111i\u1ec1n",
+        "long h\u1ea3i"
     ],
     "l\u00e2m b\u00ecnh": [
         "l\u0103ng can"
     ],
     "l\u00e2m h\u00e0": [
-        "nam ban",
-        "\u0111inh v\u0103n"
+        "\u0111inh v\u0103n",
+        "nam ban"
     ],
     "l\u00e2m thao": [
         "h\u00f9ng s\u01a1n",
@@ -609,15 +609,15 @@
         "ba h\u00e0ng \u0111\u1ed3i"
     ],
     "l\u1ea1ng giang": [
-        "k\u00e9p",
-        "v\u00f4i"
+        "v\u00f4i",
+        "k\u00e9p"
     ],
     "l\u1ea5p v\u00f2": [
         "l\u1ea5p v\u00f2"
     ],
     "l\u1eadp th\u1ea1ch": [
-        "l\u1eadp th\u1ea1ch",
-        "hoa s\u01a1n"
+        "hoa s\u01a1n",
+        "l\u1eadp th\u1ea1ch"
     ],
     "l\u1eafk": [
         "li\u00ean s\u01a1n"
@@ -637,8 +637,8 @@
         "l\u1ed9c ninh"
     ],
     "l\u1ee5c nam": [
-        "\u0111\u1ed3i ng\u00f4",
-        "ph\u01b0\u01a1ng s\u01a1n"
+        "ph\u01b0\u01a1ng s\u01a1n",
+        "\u0111\u1ed3i ng\u00f4"
     ],
     "l\u1ee5c ng\u1ea1n": [
         "ch\u0169"
@@ -668,8 +668,8 @@
         "m\u00e8o v\u1ea1c"
     ],
     "m\u00ea linh": [
-        "quang minh",
-        "chi \u0111\u00f4ng"
+        "chi \u0111\u00f4ng",
+        "quang minh"
     ],
     "m\u00f9 c\u0103ng ch\u1ea3i": [
         "m\u00f9 c\u0103ng ch\u1ea3i"
@@ -748,15 +748,15 @@
         "qu\u00e1n h\u00e0nh"
     ],
     "nghi xu\u00e2n": [
-        "ti\u00ean \u0111i\u1ec1n",
-        "xu\u00e2n an"
+        "xu\u00e2n an",
+        "ti\u00ean \u0111i\u1ec1n"
     ],
     "ngh\u0129a h\u00e0nh": [
         "ch\u1ee3 ch\u00f9a"
     ],
     "ngh\u0129a h\u01b0ng": [
-        "r\u1ea1ng \u0111\u00f4ng",
         "qu\u1ef9 nh\u1ea5t",
+        "r\u1ea1ng \u0111\u00f4ng",
         "li\u1ec5u \u0111\u1ec1"
     ],
     "ngh\u0129a \u0111\u00e0n": [
@@ -767,8 +767,8 @@
         "nguy\u00ean b\u00ecnh"
     ],
     "ng\u00e2n s\u01a1n": [
-        "v\u00e2n t\u00f9ng",
-        "n\u00e0 ph\u1eb7c"
+        "n\u00e0 ph\u1eb7c",
+        "v\u00e2n t\u00f9ng"
     ],
     "ng\u1ecdc hi\u1ec3n": [
         "r\u1ea1ch g\u1ed1c"
@@ -828,8 +828,8 @@
         "phong \u0111i\u1ec1n"
     ],
     "ph\u00f9 c\u00e1t": [
-        "ng\u00f4 m\u00e2y",
-        "c\u00e1t ti\u1ebfn"
+        "c\u00e1t ti\u1ebfn",
+        "ng\u00f4 m\u00e2y"
     ],
     "ph\u00f9 c\u1eeb": [
         "tr\u1ea7n cao"
@@ -854,8 +854,8 @@
         "ph\u00fa ho\u00e0"
     ],
     "ph\u00fa l\u01b0\u01a1ng": [
-        "giang ti\u00ean",
-        "\u0111u"
+        "\u0111u",
+        "giang ti\u00ean"
     ],
     "ph\u00fa l\u1ed9c": [
         "ph\u00fa l\u1ed9c",
@@ -889,9 +889,9 @@
         "kh\u00e2m \u0111\u1ee9c"
     ],
     "ph\u1ee5ng hi\u1ec7p": [
+        "c\u00e2y d\u01b0\u01a1ng",
         "b\u00fang t\u00e0u",
-        "kinh c\u00f9ng",
-        "c\u00e2y d\u01b0\u01a1ng"
+        "kinh c\u00f9ng"
     ],
     "quan h\u00f3a": [
         "h\u1ed3i xu\u00e2n"
@@ -906,9 +906,9 @@
         "tam s\u01a1n"
     ],
     "qu\u1ea3ng h\u00f2a": [
-        "ho\u00e0 thu\u1eadn",
+        "qu\u1ea3ng uy\u00ean",
         "t\u00e0 l\u00f9ng",
-        "qu\u1ea3ng uy\u00ean"
+        "ho\u00e0 thu\u1eadn"
     ],
     "qu\u1ea3ng ninh": [
         "qu\u00e1n h\u00e0u"
@@ -923,8 +923,8 @@
         "kim s\u01a1n"
     ],
     "qu\u1ebf s\u01a1n": [
-        "h\u01b0\u01a1ng an",
-        "\u0111\u00f4ng ph\u00fa"
+        "\u0111\u00f4ng ph\u00fa",
+        "h\u01b0\u01a1ng an"
     ],
     "qu\u1ed1c oai": [
         "qu\u1ed1c oai"
@@ -991,9 +991,9 @@
         "tam \u0111\u01b0\u1eddng"
     ],
     "tam \u0111\u1ea3o": [
-        "\u0111\u1ea1i \u0111\u00ecnh",
         "h\u1ee3p ch\u00e2u",
-        "tam \u0111\u1ea3o"
+        "tam \u0111\u1ea3o",
+        "\u0111\u1ea1i \u0111\u00ecnh"
     ],
     "than uy\u00ean": [
         "than uy\u00ean"
@@ -1030,13 +1030,13 @@
         "v\u0103n \u0111i\u1ec3n"
     ],
     "thi\u1ec7u h\u00f3a": [
-        "h\u1eadu hi\u1ec1n",
-        "thi\u1ec7u h\u00f3a"
+        "thi\u1ec7u h\u00f3a",
+        "h\u1eadu hi\u1ec1n"
     ],
     "tho\u1ea1i s\u01a1n": [
+        "n\u00fai s\u1eadp",
         "\u00f3c eo",
-        "ph\u00fa ho\u00e0",
-        "n\u00fai s\u1eadp"
+        "ph\u00fa ho\u00e0"
     ],
     "thu\u1eadn ch\u00e2u": [
         "thu\u1eadn ch\u00e2u"
@@ -1067,8 +1067,8 @@
         "th\u1ea1ch h\u00e0"
     ],
     "th\u1ea1ch th\u00e0nh": [
-        "kim t\u00e2n",
-        "v\u00e2n du"
+        "v\u00e2n du",
+        "kim t\u00e2n"
     ],
     "th\u1ea1ch th\u1ea5t": [
         "li\u00ean quan"
@@ -1085,8 +1085,8 @@
     ],
     "th\u1ecd xu\u00e2n": [
         "th\u1ecd xu\u00e2n",
-        "sao v\u00e0ng",
-        "lam s\u01a1n"
+        "lam s\u01a1n",
+        "sao v\u00e0ng"
     ],
     "th\u1ed1ng nh\u1ea5t": [
         "d\u1ea7u gi\u00e2y"
@@ -1123,9 +1123,9 @@
         "ti\u1ec3u c\u1ea7n"
     ],
     "tri t\u00f4n": [
+        "tri t\u00f4n",
         "c\u00f4 t\u00f4",
-        "ba ch\u00fac",
-        "tri t\u00f4n"
+        "ba ch\u00fac"
     ],
     "tri\u1ec7u phong": [
         "\u00e1i t\u1eed"
@@ -1138,8 +1138,8 @@
         "tr\u00e0 xu\u00e2n"
     ],
     "tr\u00e0 c\u00fa": [
-        "\u0111\u1ecbnh an",
-        "tr\u00e0 c\u00fa"
+        "tr\u00e0 c\u00fa",
+        "\u0111\u1ecbnh an"
     ],
     "tr\u00e0 \u00f4n": [
         "tr\u00e0 \u00f4n"
@@ -1164,8 +1164,8 @@
         "c\u1ed5 ph\u00fac"
     ],
     "tr\u1ea7n v\u0103n th\u1eddi": [
-        "tr\u1ea7n v\u0103n th\u1eddi",
-        "s\u00f4ng \u0111\u1ed1c"
+        "s\u00f4ng \u0111\u1ed1c",
+        "tr\u1ea7n v\u0103n th\u1eddi"
     ],
     "tr\u1ea7n \u0111\u1ec1": [
         "l\u1ecbch h\u1ed9i th\u01b0\u1ee3ng",
@@ -1173,8 +1173,8 @@
     ],
     "tr\u1ef1c ninh": [
         "c\u1ed5 l\u1ec5",
-        "c\u00e1t th\u00e0nh",
-        "ninh c\u01b0\u1eddng"
+        "ninh c\u01b0\u1eddng",
+        "c\u00e1t th\u00e0nh"
     ],
     "tuy an": [
         "ch\u00ed th\u1ea1nh"
@@ -1271,9 +1271,9 @@
         "kh\u00e1nh y\u00ean"
     ],
     "v\u0103n ch\u1ea5n": [
+        "nt tr\u1ea7n ph\u00fa",
         "nt li\u00ean s\u01a1n",
-        "s\u01a1n th\u1ecbnh",
-        "nt tr\u1ea7n ph\u00fa"
+        "s\u01a1n th\u1ecbnh"
     ],
     "v\u0103n giang": [
         "v\u0103n giang"
@@ -1300,9 +1300,9 @@
         "v\u0129nh h\u01b0ng"
     ],
     "v\u0129nh linh": [
-        "c\u1eeda t\u00f9ng",
+        "h\u1ed3 x\u00e1",
         "b\u1ebfn quan",
-        "h\u1ed3 x\u00e1"
+        "c\u1eeda t\u00f9ng"
     ],
     "v\u0129nh l\u1ed9c": [
         "v\u0129nh l\u1ed9c"
@@ -1319,8 +1319,8 @@
     ],
     "v\u0129nh t\u01b0\u1eddng": [
         "v\u0129nh t\u01b0\u1eddng",
-        "t\u1ee9 tr\u01b0ng",
-        "th\u1ed5 tang"
+        "th\u1ed5 tang",
+        "t\u1ee9 tr\u01b0ng"
     ],
     "v\u0169 quang": [
         "v\u0169 quang"
@@ -1338,8 +1338,8 @@
         "n\u00e0ng mau"
     ],
     "v\u1ecb xuy\u00ean": [
-        "v\u1ecb xuy\u00ean",
-        "n\u00f4ng tr\u01b0\u1eddng vi\u1ec7t l\u00e2m"
+        "n\u00f4ng tr\u01b0\u1eddng vi\u1ec7t l\u00e2m",
+        "v\u1ecb xuy\u00ean"
     ],
     "v\u1ee5 b\u1ea3n": [
         "g\u00f4i"
@@ -1357,8 +1357,8 @@
         "c\u1ed1c p\u00e0i"
     ],
     "y\u00ean b\u00ecnh": [
-        "th\u00e1c b\u00e0",
-        "y\u00ean b\u00ecnh"
+        "y\u00ean b\u00ecnh",
+        "th\u00e1c b\u00e0"
     ],
     "y\u00ean ch\u00e2u": [
         "y\u00ean ch\u00e2u"
@@ -1403,10 +1403,10 @@
         "h\u00e0ng tr\u1ea1m"
     ],
     "y\u00ean \u0111\u1ecbnh": [
-        "qu\u00fd l\u1ed9c",
-        "th\u1ed1ng nh\u1ea5t",
         "qu\u00e1n l\u00e0o",
-        "y\u00ean l\u00e2m"
+        "y\u00ean l\u00e2m",
+        "qu\u00fd l\u1ed9c",
+        "th\u1ed1ng nh\u1ea5t"
     ],
     "\u00e2n thi": [
         "\u00e2n thi"
@@ -1430,8 +1430,8 @@
         "\u0111\u00e0 b\u1eafc"
     ],
     "\u0111\u00ecnh l\u1eadp": [
-        "nt th\u00e1i b\u00ecnh",
-        "\u0111\u00ecnh l\u1eadp"
+        "\u0111\u00ecnh l\u1eadp",
+        "nt th\u00e1i b\u00ecnh"
     ],
     "\u0111\u00f4 l\u01b0\u01a1ng": [
         "\u0111\u00f4 l\u01b0\u01a1ng"
@@ -1458,8 +1458,8 @@
         "\u0111\u0103k \u0111oa"
     ],
     "\u0111\u01a1n d\u01b0\u01a1ng": [
-        "d'ran",
-        "th\u1ea1nh m\u1ef9"
+        "th\u1ea1nh m\u1ef9",
+        "d'ran"
     ],
     "\u0111\u1ea1 huoai": [
         "\u0111\u1ea1 m'ri",
@@ -1510,9 +1510,9 @@
         "\u0111\u1ecbnh qu\u00e1n"
     ],
     "\u0111\u1ed3ng h\u1ef7": [
-        "h\u00f3a th\u01b0\u1ee3ng",
         "tr\u1ea1i cau",
-        "s\u00f4ng c\u1ea7u"
+        "s\u00f4ng c\u1ea7u",
+        "h\u00f3a th\u01b0\u1ee3ng"
     ],
     "\u0111\u1ed3ng ph\u00fa": [
         "t\u00e2n ph\u00fa"
@@ -1532,8 +1532,8 @@
     ],
     "\u0111\u1ee9c h\u00f2a": [
         "h\u1eadu ngh\u0129a",
-        "hi\u1ec7p h\u00f2a",
-        "\u0111\u1ee9c h\u00f2a"
+        "\u0111\u1ee9c h\u00f2a",
+        "hi\u1ec7p h\u00f2a"
     ],
     "\u0111\u1ee9c linh": [
         "\u0111\u1ee9c t\u00e0i",

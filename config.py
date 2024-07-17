@@ -1,6 +1,6 @@
 from configparser import ConfigParser
 
-def load_config(file_name='database.ini', section='postgresql'):
+def load_postgres_config(file_name='postgres.ini', section='postgresql'):
     parser = ConfigParser()
     parser.read(file_name)
 
@@ -15,5 +15,4 @@ def load_config(file_name='database.ini', section='postgresql'):
     return config
 
 if __name__ == '__main__':
-    config = load_config()
-    print(config)
+    pass
