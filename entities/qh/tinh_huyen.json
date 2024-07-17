@@ -1,0 +1,602 @@
+{
+    "an giang": [
+        "ch\u1ee3 m\u1edbi",
+        "an ph\u00fa",
+        "ph\u00fa t\u00e2n",
+        "ch\u00e2u ph\u00fa",
+        "ch\u00e2u th\u00e0nh",
+        "tri t\u00f4n",
+        "tho\u1ea1i s\u01a1n"
+    ],
+    "b\u00e0 r\u1ecba - v\u0169ng t\u00e0u": [
+        "\u0111\u1ea5t \u0111\u1ecf",
+        "xuy\u00ean m\u1ed9c",
+        "ch\u00e2u \u0111\u1ee9c",
+        "long \u0111i\u1ec1n"
+    ],
+    "b\u00ecnh d\u01b0\u01a1ng": [
+        "b\u1eafc t\u00e2n uy\u00ean",
+        "d\u1ea7u ti\u1ebfng",
+        "ph\u00fa gi\u00e1o",
+        "b\u00e0u b\u00e0ng"
+    ],
+    "b\u00ecnh ph\u01b0\u1edbc": [
+        "h\u1edbn qu\u1ea3n",
+        "ph\u00fa ri\u1ec1ng",
+        "b\u00f9 gia m\u1eadp",
+        "b\u00f9 \u0111\u1ed1p",
+        "l\u1ed9c ninh",
+        "\u0111\u1ed3ng ph\u00fa",
+        "b\u00f9 \u0111\u0103ng"
+    ],
+    "b\u00ecnh thu\u1eadn": [
+        "tuy phong",
+        "t\u00e1nh linh",
+        "h\u00e0m thu\u1eadn b\u1eafc",
+        "h\u00e0m thu\u1eadn nam",
+        "\u0111\u1ee9c linh",
+        "h\u00e0m t\u00e2n",
+        "b\u1eafc b\u00ecnh",
+        "ph\u00fa qu\u00ed"
+    ],
+    "b\u00ecnh \u0111\u1ecbnh": [
+        "ho\u00e0i \u00e2n",
+        "ph\u00f9 m\u1ef9",
+        "v\u0129nh th\u1ea1nh",
+        "an l\u00e3o",
+        "v\u00e2n canh",
+        "t\u00e2y s\u01a1n",
+        "tuy ph\u01b0\u1edbc",
+        "ph\u00f9 c\u00e1t"
+    ],
+    "b\u1ea1c li\u00eau": [
+        "v\u0129nh l\u1ee3i",
+        "h\u1ed3ng d\u00e2n",
+        "\u0111\u00f4ng h\u1ea3i",
+        "ph\u01b0\u1edbc long",
+        "ho\u00e0 b\u00ecnh"
+    ],
+    "b\u1eafc giang": [
+        "y\u00ean th\u1ebf",
+        "t\u00e2n y\u00ean",
+        "s\u01a1n \u0111\u1ed9ng",
+        "y\u00ean d\u0169ng",
+        "l\u1ea1ng giang",
+        "l\u1ee5c ng\u1ea1n",
+        "hi\u1ec7p h\u00f2a",
+        "l\u1ee5c nam"
+    ],
+    "b\u1eafc k\u1ea1n": [
+        "ch\u1ee3 m\u1edbi",
+        "p\u00e1c n\u1eb7m",
+        "na r\u00ec",
+        "b\u1ea1ch th\u00f4ng",
+        "ch\u1ee3 \u0111\u1ed3n",
+        "ba b\u1ec3",
+        "ng\u00e2n s\u01a1n"
+    ],
+    "b\u1eafc ninh": [
+        "l\u01b0\u01a1ng t\u00e0i",
+        "gia b\u00ecnh",
+        "y\u00ean phong",
+        "ti\u00ean du"
+    ],
+    "b\u1ebfn tre": [
+        "ba tri",
+        "ch\u1ee3 l\u00e1ch",
+        "gi\u1ed3ng tr\u00f4m",
+        "m\u1ecf c\u00e0y b\u1eafc",
+        "b\u00ecnh \u0111\u1ea1i",
+        "ch\u00e2u th\u00e0nh",
+        "m\u1ecf c\u00e0y nam",
+        "th\u1ea1nh ph\u00fa"
+    ],
+    "cao b\u1eb1ng": [
+        "qu\u1ea3ng h\u00f2a",
+        "ho\u00e0 an",
+        "tr\u00f9ng kh\u00e1nh",
+        "th\u1ea1ch an",
+        "h\u1ea1 lang",
+        "h\u00e0 qu\u1ea3ng",
+        "b\u1ea3o l\u00e2m",
+        "b\u1ea3o l\u1ea1c",
+        "nguy\u00ean b\u00ecnh"
+    ],
+    "c\u00e0 mau": [
+        "\u0111\u1ea7m d\u01a1i",
+        "ph\u00fa t\u00e2n",
+        "ng\u1ecdc hi\u1ec3n",
+        "u minh",
+        "c\u00e1i n\u01b0\u1edbc",
+        "th\u1edbi b\u00ecnh",
+        "n\u0103m c\u0103n",
+        "tr\u1ea7n v\u0103n th\u1eddi"
+    ],
+    "gia lai": [
+        "ch\u01b0 pr\u00f4ng",
+        "ch\u01b0 p\u01b0h",
+        "ch\u01b0 p\u0103h",
+        "kr\u00f4ng pa",
+        "mang yang",
+        "ph\u00fa thi\u1ec7n",
+        "kbang",
+        "\u0111\u0103k \u0111oa",
+        "ia pa",
+        "k\u00f4ng chro",
+        "\u0111\u0103k p\u01a1",
+        "\u0111\u1ee9c c\u01a1",
+        "ia grai",
+        "ch\u01b0 s\u00ea"
+    ],
+    "ho\u00e0 b\u00ecnh": [
+        "\u0111\u00e0 b\u1eafc",
+        "l\u1ea1c th\u1ee7y",
+        "mai ch\u00e2u",
+        "kim b\u00f4i",
+        "y\u00ean th\u1ee7y",
+        "cao phong",
+        "t\u00e2n l\u1ea1c",
+        "l\u1ea1c s\u01a1n",
+        "l\u01b0\u01a1ng s\u01a1n"
+    ],
+    "h\u00e0 giang": [
+        "v\u1ecb xuy\u00ean",
+        "x\u00edn m\u1ea7n",
+        "b\u1eafc quang",
+        "b\u1eafc m\u00ea",
+        "m\u00e8o v\u1ea1c",
+        "y\u00ean minh",
+        "ho\u00e0ng su ph\u00ec",
+        "quang b\u00ecnh",
+        "\u0111\u1ed3ng v\u0103n",
+        "qu\u1ea3n b\u1ea1"
+    ],
+    "h\u00e0 nam": [
+        "thanh li\u00eam",
+        "kim b\u1ea3ng",
+        "l\u00fd nh\u00e2n",
+        "b\u00ecnh l\u1ee5c"
+    ],
+    "h\u00e0 t\u0129nh": [
+        "th\u1ea1ch h\u00e0",
+        "l\u1ed9c h\u00e0",
+        "\u0111\u1ee9c th\u1ecd",
+        "h\u01b0\u01a1ng s\u01a1n",
+        "h\u01b0\u01a1ng kh\u00ea",
+        "nghi xu\u00e2n",
+        "v\u0169 quang",
+        "k\u1ef3 anh",
+        "can l\u1ed9c",
+        "c\u1ea9m xuy\u00ean"
+    ],
+    "h\u01b0ng y\u00ean": [
+        "v\u0103n giang",
+        "\u00e2n thi",
+        "ti\u00ean l\u1eef",
+        "kho\u00e1i ch\u00e2u",
+        "y\u00ean m\u1ef9",
+        "v\u0103n l\u00e2m",
+        "ph\u00f9 c\u1eeb",
+        "kim \u0111\u1ed9ng"
+    ],
+    "h\u1ea3i d\u01b0\u01a1ng": [
+        "c\u1ea9m gi\u00e0ng",
+        "gia l\u1ed9c",
+        "kim th\u00e0nh",
+        "thanh h\u00e0",
+        "nam s\u00e1ch",
+        "ninh giang",
+        "thanh mi\u1ec7n",
+        "t\u1ee9 k\u1ef3",
+        "b\u00ecnh giang"
+    ],
+    "h\u1eadu giang": [
+        "ph\u1ee5ng hi\u1ec7p",
+        "v\u1ecb thu\u1ef7",
+        "ch\u00e2u th\u00e0nh a",
+        "ch\u00e2u th\u00e0nh",
+        "long m\u1ef9"
+    ],
+    "kh\u00e1nh h\u00f2a": [
+        "kh\u00e1nh v\u0129nh",
+        "cam l\u00e2m",
+        "v\u1ea1n ninh",
+        "di\u00ean kh\u00e1nh",
+        "tr\u01b0\u1eddng sa",
+        "kh\u00e1nh s\u01a1n"
+    ],
+    "ki\u00ean giang": [
+        "gi\u1ed3ng ri\u1ec1ng",
+        "an minh",
+        "ki\u00ean h\u1ea3i",
+        "t\u00e2n hi\u1ec7p",
+        "h\u00f2n \u0111\u1ea5t",
+        "v\u0129nh thu\u1eadn",
+        "giang th\u00e0nh",
+        "an bi\u00ean",
+        "ch\u00e2u th\u00e0nh",
+        "ki\u00ean l\u01b0\u01a1ng",
+        "u minh th\u01b0\u1ee3ng",
+        "g\u00f2 quao"
+    ],
+    "kon tum": [
+        "sa th\u1ea7y",
+        "tu m\u01a1 r\u00f4ng",
+        "\u0111\u1eafk h\u00e0",
+        "ia h' drai",
+        "\u0111\u1eafk glei",
+        "\u0111\u1eafk t\u00f4",
+        "ng\u1ecdc h\u1ed3i",
+        "kon pl\u00f4ng",
+        "kon r\u1eaby"
+    ],
+    "lai ch\u00e2u": [
+        "phong th\u1ed5",
+        "m\u01b0\u1eddng t\u00e8",
+        "s\u00ecn h\u1ed3",
+        "t\u00e2n uy\u00ean",
+        "than uy\u00ean",
+        "tam \u0111\u01b0\u1eddng",
+        "n\u1eadm nh\u00f9n"
+    ],
+    "long an": [
+        "th\u1ee7 th\u1eeba",
+        "t\u00e2n th\u1ea1nh",
+        "t\u00e2n tr\u1ee5",
+        "m\u1ed9c h\u00f3a",
+        "c\u1ea7n giu\u1ed9c",
+        "\u0111\u1ee9c hu\u1ec7",
+        "t\u00e2n h\u01b0ng",
+        "b\u1ebfn l\u1ee9c",
+        "c\u1ea7n \u0111\u01b0\u1edbc",
+        "v\u0129nh h\u01b0ng",
+        "th\u1ea1nh h\u00f3a",
+        "ch\u00e2u th\u00e0nh",
+        "\u0111\u1ee9c h\u00f2a"
+    ],
+    "l\u00e0o cai": [
+        "b\u00e1t x\u00e1t",
+        "b\u1ea3o th\u1eafng",
+        "m\u01b0\u1eddng kh\u01b0\u01a1ng",
+        "si ma cai",
+        "b\u1ea3o y\u00ean",
+        "v\u0103n b\u00e0n",
+        "b\u1eafc h\u00e0"
+    ],
+    "l\u00e2m \u0111\u1ed3ng": [
+        "\u0111am r\u00f4ng",
+        "\u0111\u1ea1 t\u1ebbh",
+        "\u0111\u1ee9c tr\u1ecdng",
+        "di linh",
+        "l\u00e2m h\u00e0",
+        "b\u1ea3o l\u00e2m",
+        "\u0111\u01a1n d\u01b0\u01a1ng",
+        "\u0111\u1ea1 huoai",
+        "c\u00e1t ti\u00ean",
+        "l\u1ea1c d\u01b0\u01a1ng"
+    ],
+    "l\u1ea1ng s\u01a1n": [
+        "v\u0103n l\u00e3ng",
+        "cao l\u1ed9c",
+        "l\u1ed9c b\u00ecnh",
+        "b\u1eafc s\u01a1n",
+        "\u0111\u00ecnh l\u1eadp",
+        "tr\u00e0ng \u0111\u1ecbnh",
+        "h\u1eefu l\u0169ng",
+        "b\u00ecnh gia",
+        "chi l\u0103ng",
+        "v\u0103n quan"
+    ],
+    "nam \u0111\u1ecbnh": [
+        "m\u1ef9 l\u1ed9c",
+        "v\u1ee5 b\u1ea3n",
+        "xu\u00e2n tr\u01b0\u1eddng",
+        "\u00fd y\u00ean",
+        "ngh\u0129a h\u01b0ng",
+        "tr\u1ef1c ninh",
+        "giao th\u1ee7y",
+        "nam tr\u1ef1c",
+        "h\u1ea3i h\u1eadu"
+    ],
+    "ngh\u1ec7 an": [
+        "t\u01b0\u01a1ng d\u01b0\u01a1ng",
+        "qu\u1ef3 h\u1ee3p",
+        "k\u1ef3 s\u01a1n",
+        "qu\u1ebf phong",
+        "t\u00e2n k\u1ef3",
+        "qu\u1ef3 ch\u00e2u",
+        "nam \u0111\u00e0n",
+        "di\u1ec5n ch\u00e2u",
+        "h\u01b0ng nguy\u00ean",
+        "anh s\u01a1n",
+        "qu\u1ef3nh l\u01b0u",
+        "thanh ch\u01b0\u01a1ng",
+        "ngh\u0129a \u0111\u00e0n",
+        "con cu\u00f4ng",
+        "nghi l\u1ed9c",
+        "y\u00ean th\u00e0nh",
+        "\u0111\u00f4 l\u01b0\u01a1ng"
+    ],
+    "ninh b\u00ecnh": [
+        "y\u00ean m\u00f4",
+        "kim s\u01a1n",
+        "nho quan",
+        "gia vi\u1ec5n",
+        "hoa l\u01b0",
+        "y\u00ean kh\u00e1nh"
+    ],
+    "ninh thu\u1eadn": [
+        "ninh ph\u01b0\u1edbc",
+        "thu\u1eadn nam",
+        "thu\u1eadn b\u1eafc",
+        "ninh s\u01a1n",
+        "b\u00e1c \u00e1i",
+        "ninh h\u1ea3i"
+    ],
+    "ph\u00fa th\u1ecd": [
+        "h\u1ea1 ho\u00e0",
+        "l\u00e2m thao",
+        "\u0111oan h\u00f9ng",
+        "thanh thu\u1ef7",
+        "ph\u00f9 ninh",
+        "t\u00e2n s\u01a1n",
+        "c\u1ea9m kh\u00ea",
+        "tam n\u00f4ng",
+        "thanh ba",
+        "y\u00ean l\u1eadp",
+        "thanh s\u01a1n"
+    ],
+    "ph\u00fa y\u00ean": [
+        "\u0111\u1ed3ng xu\u00e2n",
+        "s\u00f4ng hinh",
+        "tuy an",
+        "t\u00e2y ho\u00e0",
+        "ph\u00fa ho\u00e0",
+        "s\u01a1n h\u00f2a"
+    ],
+    "qu\u1ea3ng b\u00ecnh": [
+        "tuy\u00ean h\u00f3a",
+        "qu\u1ea3ng ninh",
+        "minh h\u00f3a",
+        "qu\u1ea3ng tr\u1ea1ch",
+        "b\u1ed1 tr\u1ea1ch",
+        "l\u1ec7 th\u1ee7y"
+    ],
+    "qu\u1ea3ng nam": [
+        "nam tr\u00e0 my",
+        "ph\u01b0\u1edbc s\u01a1n",
+        "ph\u00fa ninh",
+        "th\u0103ng b\u00ecnh",
+        "duy xuy\u00ean",
+        "nam giang",
+        "\u0111\u00f4ng giang",
+        "n\u00f4ng s\u01a1n",
+        "qu\u1ebf s\u01a1n",
+        "hi\u1ec7p \u0111\u1ee9c",
+        "n\u00fai th\u00e0nh",
+        "t\u00e2y giang",
+        "\u0111\u1ea1i l\u1ed9c",
+        "b\u1eafc tr\u00e0 my",
+        "ti\u00ean ph\u01b0\u1edbc"
+    ],
+    "qu\u1ea3ng ng\u00e3i": [
+        "b\u00ecnh s\u01a1n",
+        "s\u01a1n t\u00e2y",
+        "ngh\u0129a h\u00e0nh",
+        "m\u1ed9 \u0111\u1ee9c",
+        "t\u01b0 ngh\u0129a",
+        "ba t\u01a1",
+        "s\u01a1n t\u1ecbnh",
+        "tr\u00e0 b\u1ed3ng",
+        "s\u01a1n h\u00e0",
+        "minh long"
+    ],
+    "qu\u1ea3ng ninh": [
+        "c\u00f4 t\u00f4",
+        "\u0111\u1ea7m h\u00e0",
+        "v\u00e2n \u0111\u1ed3n",
+        "ti\u00ean y\u00ean",
+        "b\u00ecnh li\u00eau",
+        "h\u1ea3i h\u00e0",
+        "ba ch\u1ebd"
+    ],
+    "qu\u1ea3ng tr\u1ecb": [
+        "\u0111a kr\u00f4ng",
+        "cam l\u1ed9",
+        "gio linh",
+        "tri\u1ec7u phong",
+        "h\u1ea3i l\u0103ng",
+        "h\u01b0\u1edbng h\u00f3a",
+        "v\u0129nh linh"
+    ],
+    "s\u00f3c tr\u0103ng": [
+        "tr\u1ea7n \u0111\u1ec1",
+        "m\u1ef9 xuy\u00ean",
+        "th\u1ea1nh tr\u1ecb",
+        "c\u00f9 lao dung",
+        "ch\u00e2u th\u00e0nh",
+        "m\u1ef9 t\u00fa",
+        "long ph\u00fa",
+        "k\u1ebf s\u00e1ch"
+    ],
+    "s\u01a1n la": [
+        "b\u1eafc y\u00ean",
+        "qu\u1ef3nh nhai",
+        "thu\u1eadn ch\u00e2u",
+        "ph\u00f9 y\u00ean",
+        "y\u00ean ch\u00e2u",
+        "s\u00f4ng m\u00e3",
+        "v\u00e2n h\u1ed3",
+        "mai s\u01a1n",
+        "m\u1ed9c ch\u00e2u",
+        "s\u1ed1p c\u1ed9p",
+        "m\u01b0\u1eddng la"
+    ],
+    "thanh h\u00f3a": [
+        "\u0111\u00f4ng s\u01a1n",
+        "qu\u1ea3ng x\u01b0\u01a1ng",
+        "m\u01b0\u1eddng l\u00e1t",
+        "h\u1eadu l\u1ed9c",
+        "b\u00e1 th\u01b0\u1edbc",
+        "tri\u1ec7u s\u01a1n",
+        "quan s\u01a1n",
+        "ng\u1ecdc l\u1eb7c",
+        "thi\u1ec7u h\u00f3a",
+        "h\u00e0 trung",
+        "nh\u01b0 thanh",
+        "quan h\u00f3a",
+        "nga s\u01a1n",
+        "th\u1ecd xu\u00e2n",
+        "th\u1ea1ch th\u00e0nh",
+        "y\u00ean \u0111\u1ecbnh",
+        "nh\u01b0 xu\u00e2n",
+        "c\u1ea9m th\u1ee7y",
+        "v\u0129nh l\u1ed9c",
+        "th\u01b0\u1eddng xu\u00e2n",
+        "lang ch\u00e1nh",
+        "ho\u1eb1ng h\u00f3a",
+        "n\u00f4ng c\u1ed1ng"
+    ],
+    "th\u00e1i b\u00ecnh": [
+        "qu\u1ef3nh ph\u1ee5",
+        "th\u00e1i th\u1ee5y",
+        "h\u01b0ng h\u00e0",
+        "v\u0169 th\u01b0",
+        "ti\u1ec1n h\u1ea3i",
+        "\u0111\u00f4ng h\u01b0ng",
+        "ki\u1ebfn x\u01b0\u01a1ng"
+    ],
+    "th\u00e1i nguy\u00ean": [
+        "v\u00f5 nhai",
+        "ph\u00fa b\u00ecnh",
+        "\u0111\u1ecbnh h\u00f3a",
+        "\u0111\u1ed3ng h\u1ef7",
+        "\u0111\u1ea1i t\u1eeb",
+        "ph\u00fa l\u01b0\u01a1ng"
+    ],
+    "th\u1eeba thi\u00ean hu\u1ebf": [
+        "a l\u01b0\u1edbi",
+        "nam \u0111\u00f4ng",
+        "ph\u00fa vang",
+        "ph\u00fa l\u1ed9c",
+        "qu\u1ea3ng \u0111i\u1ec1n",
+        "phong \u0111i\u1ec1n"
+    ],
+    "ti\u1ec1n giang": [
+        "g\u00f2 c\u00f4ng t\u00e2y",
+        "ch\u1ee3 g\u1ea1o",
+        "c\u00e1i b\u00e8",
+        "t\u00e2n ph\u00fa \u0111\u00f4ng",
+        "t\u00e2n ph\u01b0\u1edbc",
+        "ch\u00e2u th\u00e0nh",
+        "g\u00f2 c\u00f4ng \u0111\u00f4ng",
+        "cai l\u1eady"
+    ],
+    "tr\u00e0 vinh": [
+        "duy\u00ean h\u1ea3i",
+        "ti\u1ec3u c\u1ea7n",
+        "c\u1ea7u ngang",
+        "ch\u00e2u th\u00e0nh",
+        "c\u1ea7u k\u00e8",
+        "c\u00e0ng long",
+        "tr\u00e0 c\u00fa"
+    ],
+    "tuy\u00ean quang": [
+        "na hang",
+        "s\u01a1n d\u01b0\u01a1ng",
+        "l\u00e2m b\u00ecnh",
+        "y\u00ean s\u01a1n",
+        "chi\u00eam h\u00f3a",
+        "h\u00e0m y\u00ean"
+    ],
+    "t\u00e2y ninh": [
+        "t\u00e2n ch\u00e2u",
+        "t\u00e2n bi\u00ean",
+        "g\u00f2 d\u1ea7u",
+        "ch\u00e2u th\u00e0nh",
+        "b\u1ebfn c\u1ea7u",
+        "d\u01b0\u01a1ng minh ch\u00e2u"
+    ],
+    "v\u0129nh long": [
+        "long h\u1ed3",
+        "v\u0169ng li\u00eam",
+        "tr\u00e0 \u00f4n",
+        "mang th\u00edt",
+        "tam b\u00ecnh",
+        "b\u00ecnh t\u00e2n"
+    ],
+    "v\u0129nh ph\u00fac": [
+        "v\u0129nh t\u01b0\u1eddng",
+        "s\u00f4ng l\u00f4",
+        "y\u00ean l\u1ea1c",
+        "b\u00ecnh xuy\u00ean",
+        "l\u1eadp th\u1ea1ch",
+        "tam d\u01b0\u01a1ng",
+        "tam \u0111\u1ea3o"
+    ],
+    "y\u00ean b\u00e1i": [
+        "y\u00ean b\u00ecnh",
+        "tr\u1ea5n y\u00ean",
+        "m\u00f9 c\u0103ng ch\u1ea3i",
+        "l\u1ee5c y\u00ean",
+        "v\u0103n ch\u1ea5n",
+        "tr\u1ea1m t\u1ea5u",
+        "v\u0103n y\u00ean"
+    ],
+    "\u0111i\u1ec7n bi\u00ean": [
+        "m\u01b0\u1eddng \u1ea3ng",
+        "\u0111i\u1ec7n bi\u00ean",
+        "m\u01b0\u1eddng ch\u00e0",
+        "m\u01b0\u1eddng nh\u00e9",
+        "\u0111i\u1ec7n bi\u00ean \u0111\u00f4ng",
+        "n\u1eadm p\u1ed3",
+        "t\u1ee7a ch\u00f9a",
+        "tu\u1ea7n gi\u00e1o"
+    ],
+    "\u0111\u1eafk l\u1eafk": [
+        "l\u1eafk",
+        "kr\u00f4ng b\u00fak",
+        "kr\u00f4ng a na",
+        "ea s\u00fap",
+        "kr\u00f4ng n\u0103ng",
+        "m'\u0111r\u1eafk",
+        "kr\u00f4ng b\u00f4ng",
+        "c\u01b0 m'gar",
+        "c\u01b0 kuin",
+        "ea kar",
+        "ea h'leo",
+        "kr\u00f4ng p\u1eafc",
+        "bu\u00f4n \u0111\u00f4n"
+    ],
+    "\u0111\u1eafk n\u00f4ng": [
+        "\u0111\u0103k glong",
+        "\u0111\u1eafk r'l\u1ea5p",
+        "kr\u00f4ng n\u00f4",
+        "c\u01b0 j\u00fat",
+        "\u0111\u1eafk mil",
+        "\u0111\u1eafk song",
+        "tuy \u0111\u1ee9c"
+    ],
+    "\u0111\u1ed3ng nai": [
+        "th\u1ed1ng nh\u1ea5t",
+        "v\u0129nh c\u1eedu",
+        "long th\u00e0nh",
+        "c\u1ea9m m\u1ef9",
+        "xu\u00e2n l\u1ed9c",
+        "nh\u01a1n tr\u1ea1ch",
+        "\u0111\u1ecbnh qu\u00e1n",
+        "t\u00e2n ph\u00fa",
+        "tr\u1ea3ng bom"
+    ],
+    "\u0111\u1ed3ng th\u00e1p": [
+        "lai vung",
+        "t\u00e2n h\u1ed3ng",
+        "l\u1ea5p v\u00f2",
+        "ch\u00e2u th\u00e0nh",
+        "thanh b\u00ecnh",
+        "th\u00e1p m\u01b0\u1eddi",
+        "tam n\u00f4ng",
+        "h\u1ed3ng ng\u1ef1",
+        "cao l\u00e3nh"
+    ]
+}
