@@ -17,7 +17,7 @@ It could determine the province if it is not provided in the input.
   - Raw file -> Parsed file
   - ![Raw data sample](raw_excel_data.png)
   - Parsed data:
-  -  ![Raw data sample](parsed_excel_data.png) 
+  -  ![Raw data sample](parsed_address_data.png) 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/phutrungnguyen283/ 
 - Facebook: https://www.facebook.com/ngphtrungboo 
