@@ -15,5 +15,10 @@ It could determine the province if it is not provided in the input.
   - -> Parsed: {'tinh': 'bình dương', 'tinh_cat': 'tỉnh', 'qh': 'dĩ an', 'qh_cat': 'thành phố', 'px': None, 'px_cat': None, 'duong': None, 'Address_ch': '123 k khu b đông hoà bd', 't_check': 1, 'h_check': 1}
 - For file:
   - Raw file -> Parsed file
-  - # Image
-  - # Image
+  - ![Raw data sample](raw_excel_data.png)
+  - Parsed data:
+  -  ![Raw data sample](parsed_excel_data.png) 
+## Contact
+- LinkedIn: https://www.linkedin.com/in/phutrungnguyen283/ 
+- Facebook: https://www.facebook.com/ngphtrungboo 
+- Email: trung280302@gmail.com 
